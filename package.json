@@ -1,5 +1,5 @@
 {
-  "name": "s3-cdn",
+  "name": "@genai/s3-cdn-nest",
   "version": "0.0.1",
   "description": "S3 CDN Library for NestJS",
   "author": "bit0r1n",
